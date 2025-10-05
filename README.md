@@ -63,44 +63,37 @@ The dynamic retail dashboard answers several business questions, providing in-de
 
 2. **Sales and Profit Analysis** - Understanding overall sales and profitability
 
-![image](https://github.com/user-attachments/assets/0a235d2b-86c0-4c3b-91c0-65c0e5c36d73)
-
+<img width="370" height="285" alt="Screenshot 2025-10-05 180415" src="https://github.com/user-attachments/assets/17f0d956-5634-40be-bf49-92c1283f74f3" />
 
 3. **Category-wise Profit** - Breakdown of profit by product category
 
-![image](https://github.com/user-attachments/assets/361c30ab-280b-4d27-9ca9-cb071b12fee2)
-
+<img width="274" height="282" alt="Screenshot 2025-10-05 180604" src="https://github.com/user-attachments/assets/80efa549-49b1-43bf-b87f-cdf3e472e2e5" />
 
 4. **Segment-wise Sales Share %** - Breakdown of sales by customer segment
 
-![image](https://github.com/user-attachments/assets/7fa3ba5b-177f-40b8-8fa0-10f1e94c0cf9)
-
+<img width="286" height="276" alt="Screenshot 2025-10-05 180642" src="https://github.com/user-attachments/assets/85a0d889-805e-4887-9c3c-4de8c0baf4ab" />
 
 5. **Sales by Country** - Sales performance based on different countries
 
-![image](https://github.com/user-attachments/assets/1074a818-8357-4a73-adf3-ae83c696eae7)
-
+<img width="379" height="280" alt="Screenshot 2025-10-05 180701" src="https://github.com/user-attachments/assets/b1cb5589-cf07-4dc1-a1ce-530a37c1e3dc" />
 
 6. **Top 5 Subcategories** - The best-performing subcategories based on sales
 
-![image](https://github.com/user-attachments/assets/9662c7c6-982f-4665-8e6a-93da8f46a481)
-
+<img width="293" height="269" alt="Screenshot 2025-10-05 180445" src="https://github.com/user-attachments/assets/20425cac-7c99-4e11-b72d-fe6102d93149" />
 
 7. **Bottom 5 Subcategories** - The least-performing subcategories based on sales
 
-![image](https://github.com/user-attachments/assets/b0be7e56-ce2f-4394-9519-0e2b751196a5)
-
+<img width="330" height="284" alt="Screenshot 2025-10-05 180431" src="https://github.com/user-attachments/assets/21487b83-3ff8-44c8-8d5a-b34a6ef14e25" />
 
 8. **Yearly Sales Trend** - Understanding how sales evolve over the year
 
-![image](https://github.com/user-attachments/assets/30f81444-e021-470f-b340-06bd41aa0e76)
-
+<img width="869" height="165" alt="Screenshot 2025-10-05 180728" src="https://github.com/user-attachments/assets/52c7db80-5082-4356-a183-f522066fc71c" />
 
 ---
 
 ## Snapshot of the Dashboard
 
-![image](https://github.com/user-attachments/assets/fe996d48-4990-482b-986b-b3a7a654f749)
+<img width="1386" height="582" alt="Screenshot 2025-10-05 180834" src="https://github.com/user-attachments/assets/46dc7509-e15f-4d90-8a18-a3fd577f473e" />
 
 ## Conclusion
 
